@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Braille
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Braille	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Pinsetup	KEYWORD2
+clearbraille	KEYWORD2
+testing_sequence	KEYWORD2
+delaytesting	KEYWORD2
+brailletotext	KEYWORD2
+delaydisplay	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
