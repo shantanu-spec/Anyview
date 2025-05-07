@@ -1,7 +1,7 @@
 # Braille-Library
 ## Project AnyView
-Arduino Library for Refreshable Braille Cells and Braille display 
-Simple video for the library installation and understandinf the functions: 
+Arduino Library for Refreshable Braille Cells and Braille Display 
+Simple video for the library installation and understanding the functions: 
 [Installation Video](https://drive.google.com/drive/folders/19WAqIL-NhV4G5J1RsrMgq6cPOxpzeN6h?usp=sharing)
 
 *8-Dot braille* format is shown in the following image 
